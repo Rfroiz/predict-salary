@@ -1,4 +1,4 @@
-
+This Project is result of my study on Udacity's Data Scientist Nanodegree. The results are in this repository and I deeply mastered the entire data science process.
 ### Table of Contents
 
 1. [Installation](#installation)
